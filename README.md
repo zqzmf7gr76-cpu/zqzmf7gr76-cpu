@@ -1,7 +1,7 @@
 # 👋 Hi, I'm FD!
 🔥 FrontEnd Web Developer (Frontend & Backend)  
 ---
-## 🚀 
+## 🚀 What I DO
 🎥 Create web coding tutorials on YouTube  
 💡 Love working with modern web technologies  
 🛠️ Always experimenting with new tools & frameworks  
